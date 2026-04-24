@@ -1,9 +1,16 @@
-Hi, My name is **Pradipsinh Jadeja**. <br />
-a **Senior Frontend Engineer and the Creator of Shilp CSS**, an open-source CSS engine and framework.
+# Work With Me
+
+Hi, my name is **Pradipsinh Jadeja**. <br />
+**Creator of Shilp CSS and Senior Frontend Engineer**
 
 I am open to working with teams that value strong engineering fundamentals and product thinking.
 
-**Open to**:
+---
+
+<br />
+
+## Open To
+
 - Frontend Engineer role
 - Product-focused startups and engineering teams
 - Full-time, contract, or consulting work
@@ -42,7 +49,8 @@ Alongside the core engine, I am actively working on:
 - Production-ready patterns for scalable UI systems
 - Developer workflows that reduce friction and cognitive load
 - Long-term maintainability of frontend architecture
-- Shilp CSS is just an tip of the ice-berge.
+
+_Shilp CSS is just the tip of the ice-berge._
 
 <br />
 
